@@ -11,3 +11,9 @@ This repository is based on the CUDA C++ Programming Guide, version v11.8. It is
 欢迎大家提交 Issues 和 Pull Requests，一起完善本项目。
 
 Contributions are welcome! Please submit Issues and Pull Requests to help improve this project.
+
+## 项目来源 / Project Source
+
+本项目基于 Notion 进行编写，已经发布到 [Notion 页面](https://751kkk.notion.site/CUDA-f85cae70ec504520aeb162bc10134a16?pvs=74)。
+
+This project was written based on Notion and has been published on the [Notion page](https://751kkk.notion.site/CUDA-f85cae70ec504520aeb162bc10134a16?pvs=74).
